@@ -1,2 +1,2 @@
 # block.github.io
-theme: minima
+remote_theme: Architect
